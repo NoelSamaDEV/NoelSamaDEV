@@ -1,7 +1,7 @@
-<h1 align="center"><b> Noel Sama</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center"><b> Noel Sama</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-![Blue Yellow Futuristic Virtual Technology Blog Banner-min](https://github.com/NoelSamaDEV/NoelSamaDEV/assets/167072668/6725d7c6-e5ff-4204-abd5-d45f31877901)
+https://github.com/NoelSamaDEV/NoelSamaDEV/assets/167072668/6725d7c6-e5ff-4204-abd5-d45f31877901
 
 </div>
 
