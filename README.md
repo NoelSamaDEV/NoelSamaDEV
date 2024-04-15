@@ -1,7 +1,7 @@
 <h1 align="center"><b> Noel Sama</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-    <img src="https://www.canva.com/design/DAGCgYEu7cs/ZlKIoKf5uODf8S6qTgR8RQ/watch?utm_content=DAGCgYEu7cs&utm_campaign=designshare&utm_medium=link&utm_source=editor"  alt="Texto alternativo" width="900" height="200">
+    <img src="https://imgur.com/a/iUamb0F"  alt="Texto alternativo" width="900" height="200">
 </div>
 
 <div id="badges">
