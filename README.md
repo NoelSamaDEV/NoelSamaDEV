@@ -1,7 +1,8 @@
 <h1 align="center"><b> Noel Sama</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-    
+![Blue Yellow Futuristic Virtual Technology Blog Banner-min](https://github.com/NoelSamaDEV/NoelSamaDEV/assets/167072668/6725d7c6-e5ff-4204-abd5-d45f31877901)
+
 </div>
 
 <div id="badges">
@@ -60,7 +61,7 @@
     
   <img src="https://github-readme-stats.vercel.app/api?username=NoelSamaDEV&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoelSamaDEV&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="eloyparga"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoelSamaDEV&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="noelsamaDEV"/>
 
 </a>
 </div>
